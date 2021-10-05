@@ -1,35 +1,35 @@
 .css-sprite-a {
-    background:url('/images/css-images.png') -2px -0px;
+    background:url('../images/css-images.png') -2px -0px;
     width:50px;height:50px;
     display:inline-block;
 }
 
 .css-sprite-b {
-    background:url('/images/css-images.png') -54px -0px;
+    background:url('../images/css-images.png') -54px -0px;
     width:50px;height:50px;
     display:inline-block;
 }
 
 .css-sprite-c {
-    background:url('/images/css-images.png') -106px -0px;
+    background:url('../images/css-images.png') -106px -0px;
     width:50px;height:50px;
     display:inline-block;
 }
 
 .css-sprite-d {
-    background:url('/images/css-images.png') -158px -0px;
+    background:url('../images/css-images.png') -158px -0px;
     width:50px;height:50px;
     display:inline-block;
 }
 
 .css-sprite-e {
-    background:url('/images/css-images.png') -210px -0px;
+    background:url('../images/css-images.png') -210px -0px;
     width:50px;height:50px;
     display:inline-block;
 }
 
 .css-sprite-f {
-    background:url('/images/css-images.png') -262px -0px;
+    background:url('../images/css-images.png') -262px -0px;
     width:50px;height:50px;
     display:inline-block;
 }
